@@ -1,0 +1,28 @@
+argc: 2
+argv[ 0 ] has the value of fundamentals_demo.exe
+argv[ 1 ] has the value of /h
+Usage:
+    fundamentals_demo.exe /h                         ... calls help
+    fundamentals_demo.exe /get_info                  ... calls get_info
+    fundamentals_demo.exe /Figure_2_1                ... calls Figure_2_1
+    fundamentals_demo.exe /arithmetic_operators      ... calls arithmetic_operators
+    fundamentals_demo.exe /integer_division          ... calls integer_division
+    fundamentals_demo.exe /integer_remainder         ... calls integer_remainder
+    fundamentals_demo.exe /formatting_integers       ... calls formatting_integers
+    fundamentals_demo.exe /formatting_doubles        ... calls formatting_doubles
+    fundamentals_demo.exe /type_casts                ... calls type_casts
+    fundamentals_demo.exe /interactive_01            ... calls interactive_01
+    fundamentals_demo.exe /parametric_01             ... calls parametric_01
+    fundamentals_demo.exe /parametric_01 Chattada Viriyaphap EE233  ... calls parametric_01 using cmd line args
+    fundamentals_demo.exe /for_loops_01              ... calls for_loops_01
+    fundamentals_demo.exe /for_loops_02              ... calls for_loops_02
+    fundamentals_demo.exe /for_loops_03              ... calls for_loops_03
+    fundamentals_demo.exe /for_loops_03 0 1 9        ... calls for_loops_03
+    fundamentals_demo.exe /while_loops_01            ... calls while_loops_01
+    fundamentals_demo.exe /while_loops_02            ... calls while_loops_02
+    fundamentals_demo.exe /calculator_v1             ... calls calculator_v1
+    fundamentals_demo.exe /calculator_v2             ... calls calculator_v2
+    fundamentals_demo.exe /typedefs_01               ... calls typedefs_01
+    fundamentals_demo.exe /typedefs_02               ... calls typedefs_02
+    fundamentals_demo.exe /typedefs_03               ... calls typedefs_03
+    fundamentals_demo.exe /typedefs_04               ... calls typedefs_04

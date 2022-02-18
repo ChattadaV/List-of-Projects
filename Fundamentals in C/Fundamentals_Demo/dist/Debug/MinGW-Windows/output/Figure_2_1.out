@@ -1,0 +1,5 @@
+argc: 2
+argv[ 0 ] has the value of fundamentals_demo.exe
+argv[ 1 ] has the value of /Figure_2_1
+Enter the distance in miles:
+That equals 16.0900 kilometers.
