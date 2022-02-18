@@ -1,0 +1,22 @@
+argv[ 0 ]: physics_demo.exe
+argv[ 0 ]: physics_demo.exe
+argv[ 1 ]: /2D
+argv[ 2 ]: /v3
+argv[ 3 ]: /p
+argv[ 4 ]: 100.0
+argv[ 5 ]: .785
+Using parametric mode
+Name                        Value
+==================================
+t_init (ft):               0.0000
+t_final (s):               4.3902
+theta (radians):           0.7850
+y_init (ft):               0.0000
+y_final (ft):              0.0000
+v_y_init (ft/s):          70.6825
+v_y_final (ft/s):        -70.6825
+x_init (ft):               0.0000
+x_final (ft):            310.5589
+v_x_init (ft/s):          70.7388
+v_x_final (ft/s):         70.7388
+==================================
