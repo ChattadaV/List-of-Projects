@@ -1,0 +1,17 @@
+argv[ 0 ]: physics_demo.exe
+argv[ 0 ]: physics_demo.exe
+argv[ 1 ]: /beam
+argv[ 2 ]: /v3
+argv[ 3 ]: /i
+Using interactive mode
+Enter in the load (lbs):
+Enter in the length of the beam (ft):
+Enter in the location of the load (ft):
+Name                    Value
+================================
+W (lbs):                100.0000
+L (ft):                  10.0000
+a (ft):                   6.0000
+R1 (lbs):                40.0000
+R2 (lbs):                60.0000
+================================

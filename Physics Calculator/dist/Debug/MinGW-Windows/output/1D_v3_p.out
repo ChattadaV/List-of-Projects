@@ -1,0 +1,16 @@
+argv[ 0 ]: physics_demo.exe
+argv[ 0 ]: physics_demo.exe
+argv[ 1 ]: /1D
+argv[ 2 ]: /v3
+argv[ 3 ]: /p
+argv[ 4 ]: 100.0
+Using parametric mode
+Name                    Value
+==================================
+y_init (ft):            100.0000
+y_final (ft):            -0.0000
+t_init (s):               0.0000
+t_final (s):              2.4922
+v_y_init (ft/s):          0.0000
+v_y_final (ft/s):       -80.2496
+==================================

@@ -1,0 +1,15 @@
+argv[ 0 ]: physics_demo.exe
+argv[ 0 ]: physics_demo.exe
+argv[ 1 ]: /1D
+argv[ 2 ]: /v2
+argv[ 3 ]: /i
+Using interactive mode
+Please enter a height (ft):
+Name                    Value
+==================================
+y_init (ft):            100.0000
+y_final (ft):             0.0000
+t_init (s):               0.0000
+t_final (s):              2.4922
+v_y_final (ft/s):       -80.2496
+==================================
