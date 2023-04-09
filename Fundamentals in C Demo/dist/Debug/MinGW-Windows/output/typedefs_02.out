@@ -1,0 +1,30 @@
+argc: 2
+argv[ 0 ] has the value of fundamentals_demo.exe
+argv[ 1 ] has the value of /typedefs_02
+Description                                     Value
+===============================================================
+Cross_Section_Name                            filled_circle
+radius                                          1.0000
+Cross_Section Enum                              3
+Perimeter                                       0.0000
+Area                                            0.0000
+I_x                                             0.0000
+I_y                                             0.0000
+x_bar                                           0.0000
+y_bar                                           0.0000
+===============================================================
+
+Description                                     Value
+===============================================================
+Cross_Section_Name                            filled_rectangle
+length                                          1.0000
+width                                           2.0000
+Cross_Section Enum                              1
+Perimeter                                       0.0000
+Area                                            0.0000
+I_x                                             0.0000
+I_y                                             0.0000
+x_bar                                           0.0000
+y_bar                                           0.0000
+===============================================================
+

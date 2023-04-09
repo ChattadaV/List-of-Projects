@@ -1,0 +1,8 @@
+argc: 2
+argv[ 0 ] has the value of fundamentals_demo.exe
+argv[ 1 ] has the value of /interactive_01
+Please enter your first name (no more than 9 characters):
+Please enter your last name (no more than 9 characters):
+Please enter a course department (no more than 2 characters):
+Please enter a course number:
+Hello Gregory Myers! Welcome to EE233!

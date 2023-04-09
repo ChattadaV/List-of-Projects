@@ -1,0 +1,19 @@
+argc: 2
+argv[ 0 ] has the value of fundamentals_demo.exe
+argv[ 1 ] has the value of /integer_remainder
+Fundamentals: Results of Integer Remainder
+========================================
+3 % 15 = 3
+4 % 5 = 4
+5 % 5 = 0
+6 % 5 = 1
+7 % 5 = 2
+8 % 5 = 3
+5 % 3 = 2
+5 % 4 = 1
+15 % 5 = 0
+15 % 6 = 3
+15 % -7 = 1
+-15 % 7 = -1
+-15 % -7 = -1
+========================================

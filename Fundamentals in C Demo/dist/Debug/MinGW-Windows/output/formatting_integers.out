@@ -1,0 +1,14 @@
+argc: 2
+argv[ 0 ] has the value of fundamentals_demo.exe
+argv[ 1 ] has the value of /formatting_integers
+Fundamentals: Examples of Formatting Type Integer Values
+========================================
+ 234
+  234
+   234
+234
+-234
+ -234
+  -234
+-234
+========================================

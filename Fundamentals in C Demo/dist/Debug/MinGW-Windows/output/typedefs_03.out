@@ -1,0 +1,15 @@
+argc: 2
+argv[ 0 ] has the value of fundamentals_demo.exe
+argv[ 1 ] has the value of /typedefs_03
+argc: 2
+argv[ 0 ] has the value fundamentals_demo.exe.
+argv[ 1 ] has the value /typedefs_03.
+unknown:  0
+active:   1
+inactive: 2
+Usage:
+    fundamentals_demo.exe /typedefs_03 /h                                                       ... calls help
+    fundamentals_demo.exe /typedefs_03 /get_info_interactive                                    ... uses individual variables
+    fundamentals_demo.exe /typedefs_03 /get_user_properties_interactive                         ... uses a struct
+    fundamentals_demo.exe /typedefs_03 /get_user_properties_parametric chattada Chattada Viriyaphap 1   ... uses a struct
+    fundamentals_demo.exe /typedefs_03 /import_user_properties_file example_01.csv              ... uses a struct

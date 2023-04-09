@@ -1,0 +1,39 @@
+argc: 2
+argv[ 0 ] has the value of fundamentals_demo.exe
+argv[ 1 ] has the value of /typedefs_01
+Please enter a make:
+Please enter a model:
+Please enter a color:
+Please enter the number of doors (zero or more):
+Please enter the mileage (zero or more):
+Please enter the number of cylinders (zero or more):
+Please enter the orientation (I, B, V, R, O)
+Please enter the fuel:
+Description                                 Value
+===============================================================
+current_auto.make                           Honda
+current_auto.model                          Civic
+current_auto.color                          Brown
+current_auto.doors                          4
+current_auto.mileage                        251000
+current_auto.engine.cylinders               4
+current_auto.engine.orientation             I
+current_auto.engine.fuel                    gasoline
+
+address of current_auto                     0061FC44
+address of current_auto.make                0061FC44
+address of current_auto.model               0061FC4E
+address of current_auto.color               0061FC58
+address of current_auto.doors               0061FC64
+address of current_auto.mileage             0061FC68
+address of current_auto.engine              0061FC6C
+address of current_auto.engine.orientation  0061FC6C
+address of current_auto.engine.cylinders    0061FC70
+address of current_auto.engine.fuel         0061FC74
+
+value of current_auto_pointer               0061FC44
+address of current_auto_pointer             0061FC40
+
+size of current_auto                        60
+size of current_auto engine                 20
+===============================================================

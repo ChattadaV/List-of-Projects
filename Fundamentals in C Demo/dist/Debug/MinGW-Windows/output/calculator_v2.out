@@ -1,0 +1,25 @@
+argc: 2
+argv[ 0 ] has the value of fundamentals_demo.exe
+argv[ 1 ] has the value of /calculator_v2
+Welcome to calculator_v2!
+===================================
+Allows the user to enter two values
+and an operation!
+===================================
+Options:
+ 1 - addition
+ 2 - subtraction
+ 3 - multiplication
+ 4 - division
+ 9 - help
+ 0 - exit
+===================================
+Please enter the first value:
+Please enter the second value:
+Please enter an option (1-4) or 9 - help or 0 - exit
+1.0000 + 1.0000 = 2.0000
+Please enter the second value:
+Please enter an option (1-4) or 9 - help or 0 - exit
+2.0000 - 2.0000 = 0.0000
+Please enter the second value:
+Please enter an option (1-4) or 9 - help or 0 - exit

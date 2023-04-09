@@ -1,0 +1,16 @@
+argc: 2
+argv[ 0 ] has the value of fundamentals_demo.exe
+argv[ 1 ] has the value of /parametric_01
+Please enter a first name:
+Please enter a last name:
+Please enter a course department:
+Please enter a course number:
+Hello Gregory Myers! Welcome to EE233!
+argc: 6
+argv[ 0 ] has the value of fundamentals_demo.exe
+argv[ 1 ] has the value of /parametric_01
+argv[ 2 ] has the value of Gregory
+argv[ 3 ] has the value of Myers
+argv[ 4 ] has the value of EE
+argv[ 5 ] has the value of 233
+Hello Gregory Myers! Welcome to EE233!

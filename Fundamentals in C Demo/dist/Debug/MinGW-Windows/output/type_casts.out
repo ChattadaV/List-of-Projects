@@ -1,0 +1,17 @@
+argc: 2
+argv[ 0 ] has the value of fundamentals_demo.exe
+argv[ 1 ] has the value of /type_casts
+Fundamentals: Examples of Use of Type Casts
+========================================
+5 --> 5.000000
+5 --> 5.000000
+5 + 6 --> 11.000000
+5.000000 --> 5
+5.000000 + 6.000000 --> 11
+int_a: 11
+int_b: 1
+int_b: 1
+1.9999 --> 1
+G --> 71
+97 --> a
+========================================

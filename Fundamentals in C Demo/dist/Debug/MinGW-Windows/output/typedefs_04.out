@@ -1,0 +1,84 @@
+argc: 2
+argv[ 0 ] has the value of fundamentals_demo.exe
+argv[ 1 ] has the value of /typedefs_04
+Welcome to typedefs_04!
+Please enter the number of values (0 < n <= 11) you want to calculate.
+Please enter a positive height.
+Name                                    Values
+==============================================
+y_init:                                 100.0000
+n:                                      11
+    time[ 0 ]:                          0.0000
+    y_time[ 0 ]:                        100.0000
+    v_y_time[ 0 ]:                      -0.0000
+    time[ 1 ]:                          0.2492
+    y_time[ 1 ]:                        99.0000
+    v_y_time[ 1 ]:                      -8.0250
+    time[ 2 ]:                          0.4984
+    y_time[ 2 ]:                        96.0000
+    v_y_time[ 2 ]:                      -16.0499
+    time[ 3 ]:                          0.7477
+    y_time[ 3 ]:                        91.0000
+    v_y_time[ 3 ]:                      -24.0749
+    time[ 4 ]:                          0.9969
+    y_time[ 4 ]:                        84.0000
+    v_y_time[ 4 ]:                      -32.0998
+    time[ 5 ]:                          1.2461
+    y_time[ 5 ]:                        75.0000
+    v_y_time[ 5 ]:                      -40.1248
+    time[ 6 ]:                          1.4953
+    y_time[ 6 ]:                        64.0000
+    v_y_time[ 6 ]:                      -48.1498
+    time[ 7 ]:                          1.7446
+    y_time[ 7 ]:                        51.0000
+    v_y_time[ 7 ]:                      -56.1747
+    time[ 8 ]:                          1.9938
+    y_time[ 8 ]:                        36.0000
+    v_y_time[ 8 ]:                      -64.1997
+    time[ 9 ]:                          2.2430
+    y_time[ 9 ]:                        19.0000
+    v_y_time[ 9 ]:                      -72.2246
+    time[ 10 ]:                          2.4922
+    y_time[ 10 ]:                        -0.0000
+    v_y_time[ 10 ]:                      -80.2496
+==============================================
+
+Name                                    Values
+==============================================
+y_init:                                 100.0000
+n:                                      11
+    time[ 0 ]:                          0.0000
+    y_time[ 0 ]:                        100.0000
+    v_y_time[ 0 ]:                      -0.0000
+    time[ 1 ]:                          0.2492
+    y_time[ 1 ]:                        99.0000
+    v_y_time[ 1 ]:                      -8.0250
+    time[ 2 ]:                          0.4984
+    y_time[ 2 ]:                        96.0000
+    v_y_time[ 2 ]:                      -16.0499
+    time[ 3 ]:                          0.7477
+    y_time[ 3 ]:                        91.0000
+    v_y_time[ 3 ]:                      -24.0749
+    time[ 4 ]:                          0.9969
+    y_time[ 4 ]:                        84.0000
+    v_y_time[ 4 ]:                      -32.0998
+    time[ 5 ]:                          1.2461
+    y_time[ 5 ]:                        75.0000
+    v_y_time[ 5 ]:                      -40.1248
+    time[ 6 ]:                          1.4953
+    y_time[ 6 ]:                        64.0000
+    v_y_time[ 6 ]:                      -48.1498
+    time[ 7 ]:                          1.7446
+    y_time[ 7 ]:                        51.0000
+    v_y_time[ 7 ]:                      -56.1747
+    time[ 8 ]:                          1.9938
+    y_time[ 8 ]:                        36.0000
+    v_y_time[ 8 ]:                      -64.1997
+    time[ 9 ]:                          2.2430
+    y_time[ 9 ]:                        19.0000
+    v_y_time[ 9 ]:                      -72.2246
+    time[ 10 ]:                          2.4922
+    y_time[ 10 ]:                        -0.0000
+    v_y_time[ 10 ]:                      -80.2496
+==============================================
+

@@ -1,0 +1,14 @@
+argc: 2
+argv[ 0 ] has the value of fundamentals_demo.exe
+argv[ 1 ] has the value of /formatting_doubles
+Fundamentals: Examples of Formatting Type Double Values
+========================================
+3.141493
+        3.141493
+      3.14149265
+  3.141492653590
+ 3.14
+3.14
+3.141
+0.12
+========================================

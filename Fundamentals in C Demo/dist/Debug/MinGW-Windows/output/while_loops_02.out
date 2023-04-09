@@ -1,0 +1,20 @@
+argc: 2
+argv[ 0 ] has the value of fundamentals_demo.exe
+argv[ 1 ] has the value of /while_loops_02
+Let's play a guessing game!  Pick two integers.
+I'll pick one in between them.
+I'll give you 3 guesses to figure out my integer!
+Let's go!!!
+
+Please enter the minimum integer value
+Please enter the maximum integer value
+Please guess the value that I have picked!
+Try #1 of 3
+Nope! Number is too low!
+Please guess the value that I have picked!
+Try #2 of 3
+Nope! Number is too low!
+Please guess the value that I have picked!
+Try #3 of 3
+Nope! Number is too low!
+You did not guess correctly within the number of tries :( the correct number is 8 ... Wanna play again?
